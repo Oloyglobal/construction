@@ -636,7 +636,7 @@ button:hover{
     .news-container >button{
         transform: translate(0%);
         width: 320px;
-        margin-left: 20px ;
+        margin-left: 25px ;
     }
     .news-contain{
         width: 100%;
