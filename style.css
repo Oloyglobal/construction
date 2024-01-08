@@ -9,7 +9,6 @@
 
 html{
     scroll-behavior: smooth;
-    transition: 0.8s;
 }
 
 .nav-container{
@@ -21,10 +20,9 @@ html{
     /* margin: 20px auto; */
     align-items: center;
     position: sticky;
-    /* top: 0%; */
+    top: 0%;
     overflow: hidden;
-    z-index: 100%;
-    
+    z-index: 100;
 }
 .logo > span{
   color: black;
